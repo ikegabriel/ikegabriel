@@ -1,9 +1,11 @@
-###<h1> Hi there 👋</h1>
-I'm Gabriel a Fullstack(backend heavy) web developer.<br>
-👨‍💻 In training @ Zuri Team <br>
-I am currently learning Containerization.
+<h1> Hi there 👋</h1>
+I'm Gabriel a Fullstack(backend heavy) web developer.<br><br>
+<strong>--</strong>👨‍💻 In training @ Zuri Team <br>
+<strong>--</strong>🔭 I am currently learning Api development and Containerization<br>
+<strong>-</strong>⚡ Fun fact: I enjoy writing custom Css classes.<br><br>
 
-I am open to internships, and Junior roles.
+ 
+I am Open to internships, and Junior roles.
 
 <h2>My Stack</h2>
 <strong>HTML</strong><br>
@@ -15,7 +17,8 @@ I am open to internships, and Junior roles.
 
 <h3>Familiar With</h3>
 REST API<br>
-DJANGO REST FRAMEWORK
+DJANGO REST FRAMEWORK<br>
+LINUX
 <!--
 **specialist-avenger/specialist-avenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
