@@ -15,6 +15,7 @@ I am Open to internships, and Junior roles.
 <img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'>
 <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
 <img src='https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white'>
+<img src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'>
 
 # Activity
 <img src='https://activity-graph.herokuapp.com/graph?username=ikegabriel&theme=minimal'>
