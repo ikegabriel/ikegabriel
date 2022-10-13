@@ -17,9 +17,6 @@ I am Open to internships, and Junior roles.
 <img src='https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white'>
 <img src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'>
 
-# Activity
-<img src='https://activity-graph.herokuapp.com/graph?username=ikegabriel&theme=minimal'>
-
 # Summary
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ikegabriel'> <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikegabriel&theme=vue'>
 
