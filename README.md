@@ -1,9 +1,8 @@
 <h1> Hi there 👋</h1>
 I'm Gabriel a Software developer focused on Web development. I work mostly on the backend, but have experience building frontend and Fullstack projects. <br><br>
 <strong>--</strong>👨‍💻 In training @ Zuri Team <br>
-<strong>--</strong>🔭 I am currently learning Api development and Containerization<br>
-<strong>-</strong>⚡ Fun fact: I enjoy writing custom Css classes.<br><br>
-
+<strong>--</strong>🔭 I am currently learning Flutter and Mobile development<br>
+ 
  
 I am Open to internships, and Junior roles.
 
@@ -23,8 +22,8 @@ I am Open to internships, and Junior roles.
 # Summary
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ikegabriel'> <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikegabriel&theme=vue'>
 
-# Stats & Streaks
-<img src='https://github-readme-stats.vercel.app/api?username=ikegabriel'> <img src='https://github-readme-streak-stats.herokuapp.com/?user=ikegabriel'>
+# Stats
+<img src='https://github-readme-stats.vercel.app/api?username=ikegabriel'>
 
 # Trophy Cabinet
 <img src='https://github-profile-trophy.vercel.app/?username=ikegabriel'>
