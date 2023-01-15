@@ -1,12 +1,12 @@
 <h1> Hi there 👋</h1>
-I'm Gabriel a Software developer focused on Web development. I work mostly on the backend, but have experience building frontend and Fullstack projects. <br><br>
-<strong>--</strong>👨‍💻 In training @ Zuri Team <br>
-<strong>--</strong>🔭 I am currently learning Flutter and Mobile development<br>
+I'm Gabriel a Software developer and DevOps engineer. I work mostly on the backend, but have experience building frontend and Fullstack projects. <br><br>
  
  
-I am Open to internships, and Junior roles.
+I am Open to internships, and Junior DevOps or Software engineering roles.
 
 # I WORK WITH
+My journey has led me to garner experience working with the following technologies:
+
 <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'><img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green'>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src='https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white'>
@@ -18,6 +18,14 @@ I am Open to internships, and Junior roles.
 <img src='https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white'>
 <img src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689">
+<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 
 # Summary
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ikegabriel'> <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikegabriel&theme=vue'>
