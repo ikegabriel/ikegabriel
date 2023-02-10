@@ -1,8 +1,6 @@
 <h1> Hi there 👋</h1>
 I'm Gabriel a Software developer and DevOps engineer. I work mostly on the backend, but have experience building frontend and Fullstack projects. <br><br>
  
- 
-I am Open to internships, and Junior DevOps or Software engineering roles.
 
 # I WORK WITH
 My journey has led me to garner experience working with the following technologies:
@@ -28,7 +26,7 @@ My journey has led me to garner experience working with the following technologi
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 
 # Summary
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ikegabriel'> <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikegabriel&theme=vue'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ikegabriel'>
 
 # Stats
 <img src='https://github-readme-stats.vercel.app/api?username=ikegabriel'>
