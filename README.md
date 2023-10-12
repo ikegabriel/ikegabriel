@@ -1,5 +1,5 @@
 <h1> Hi there 👋</h1>
-I'm Gabriel a Software developer and DevOps engineer. I work mostly on the backend, but have experience building frontend and Fullstack projects. <br><br>
+. <br><br>
  
 
 # I WORK WITH
