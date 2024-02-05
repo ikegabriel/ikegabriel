@@ -1,9 +1,9 @@
 <h1> Hi there 👋</h1>
-. <br><br>
+I am Gabriel, a DevOps/Platform Engineer<br><br>
  
 
 # I WORK WITH
-My journey has led me to garner experience working with the following technologies:
+My journey has led me to garner experience with the following technologies:
 
 <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'><img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green'>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -25,6 +25,8 @@ My journey has led me to garner experience working with the following technologi
 <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 
+
+<!--
 # Summary
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ikegabriel'>
 
@@ -33,6 +35,8 @@ My journey has led me to garner experience working with the following technologi
 
 # Trophy Cabinet
 <img src='https://github-profile-trophy.vercel.app/?username=ikegabriel'>
+-->
+
 
 <!--
 **specialist-avenger/specialist-avenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
